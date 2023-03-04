@@ -2,7 +2,9 @@
   "name": "orange-dawn-theme",
   "displayName": "Orange Dawn",
   "description": "",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "repository": "https://github.com/jonas-jonas/orange-dawn-theme",
+  "publisher": "jonas-jonas",
   "engines": {
     "vscode": "^1.75.0"
   },
